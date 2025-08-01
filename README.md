@@ -14,6 +14,16 @@ This project uses **computer vision** and **hand tracking** to control a motoriz
 
 ---
 
+### 🖼️ Car Setup Images
+
+Upload images to the `images/` folder and embed them here:
+
+<img src="images/Showcase.jpg" width="300"/>  
+<img src="images/Side.jpg" width="300"/>  
+<img src="images/Top.jpg" width="300"/>
+
+---
+
 ### 🛠️ Hardware Required
 
 | Component            | Notes                           |
@@ -125,18 +135,6 @@ BASE_RIGHT_SPEED = 55   # Decrease if right motor is faster
 TURN_LEFT_SPEED = 100
 TURN_RIGHT_SPEED = 100
 ```
-
----
-
-### 🖼️ Car Setup Images
-
-Upload images to the `images/` folder and embed them here:
-
-<img src="images/car_front.jpg" width="300"/>  
-<img src="images/car_side.jpg" width="300"/>  
-<img src="images/car_top.jpg" width="300"/>
-
----
 
 ### 📜 License
 
