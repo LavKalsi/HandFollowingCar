@@ -43,11 +43,9 @@ This project uses **computer vision** and **hand tracking** to control a motoriz
 
 ### 📦 Installation
 
-#### 1. Enable camera and install system packages:
-```bash
-sudo raspi-config  # Enable camera (if using PiCam)
-sudo apt-get update
-sudo apt-get install python3-opencv
+1. **Update Raspberry Pi**:
+   ```bash
+   sudo apt update && sudo apt upgrade
 
 2. **Install Python dependencies**:
    ```bash
