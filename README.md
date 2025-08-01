@@ -18,13 +18,13 @@ This project uses **computer vision** and **hand tracking** to control a motoriz
 
 ## Showcase Image
 <p align="center">
-  <img src="Images/Showcase.jpg" alt="Sample Image 1" width="600"/>
+  <img src="images/Showcase.jpg" alt="Sample Image 1" width="600"/>
 </p>
 
 ##  Circuit Images
 <p align="center">
-  <img src="Images/Side.jpg" alt="Sample Image 2" width="300"/>
-  <img src="Images/Top.jpg" alt="Sample Image 3" width="300"/>
+  <img src="images/Side.jpg" alt="Sample Image 2" width="300"/>
+  <img src="images/Top.jpg" alt="Sample Image 3" width="300"/>
 </p>
 ---
 
