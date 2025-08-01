@@ -16,12 +16,16 @@ This project uses **computer vision** and **hand tracking** to control a motoriz
 
 ### 🖼️ Car Setup Images
 
-Upload images to the `images/` folder and embed them here:
+## Showcase Image
+<p align="center">
+  <img src="Images/Showcase.jpg" alt="Sample Image 1" width="600"/>
+</p>
 
-<img src="images/Showcase.jpg" width="300"/>  
-<img src="images/Side.jpg" width="300"/>  
-<img src="images/Top.jpg" width="300"/>
-
+##  Circuit Images
+<p align="center">
+  <img src="Images/Side.jpg" alt="Sample Image 2" width="300"/>
+  <img src="Images/Top.jpg" alt="Sample Image 3" width="300"/>
+</p>
 ---
 
 ### 🛠️ Hardware Required
